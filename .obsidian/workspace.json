@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "db050435acc120e2",
+        "id": "dabc61068d4dd192",
         "type": "tabs",
         "children": [
           {
-            "id": "2da414c1ae645bae",
+            "id": "d1904b190e979bf8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "cositas/ejericios_tipo_2dop.pdf"
+              }
+            }
+          },
+          {
+            "id": "50a76c900c5b344b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/Clase 1.md",
+                "file": "cositas/Preguntas Parcial 2.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d9e517dddf96047",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Calendario-8639-2023s1.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +85,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e50be54415d09a32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria/Clase 1.md",
+                "file": "cositas/Preguntas Parcial 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria/Clase 1.md",
+                "file": "cositas/Preguntas Parcial 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria/Clase 1.md"
+                "file": "cositas/Preguntas Parcial 2.md"
               }
             }
           }
@@ -136,8 +165,62 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2da414c1ae645bae",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "50a76c900c5b344b",
   "lastOpenFiles": [
-    "Calendario-8639-2023s1.pdf"
+    "_ Preguntas/8- QoS.md",
+    "cositas/ejericios_tipo_2dop.pdf",
+    "img/Pasted image 20230704202940.png",
+    "cositas/Preguntas Parcial 2.md",
+    "Teoria/Ppt parcial 1/TCP-UDP.pdf",
+    "img/Pasted image 20230705185257.png",
+    "Calendario-8639-2023s1.pdf",
+    "Practica/Unidad II - LAN.md",
+    "Practica/Unidad I - Repaso - COM.md",
+    "Practica/QoS.md",
+    "Practica/IPv6.md",
+    "Practica/DNS DHCP.md",
+    "_ Preguntas/4- DNS.md",
+    "img/Pasted image 20230704213516.png",
+    "img/Pasted image 20230704213218.png",
+    "cositas/Preguntas Parcial.md",
+    "Planificacion-8639-2023s1.pdf",
+    "_ Preguntas/9- WEB-HTTP-HTTPS-HTML.md",
+    "Practica/WEB-HTTP-HTTPS-HTML.md",
+    "_ Preguntas/Respuestas 3.md",
+    "cositas/Ejercicios_tipo_1er_parcial.pdf",
+    "Cabeceras.md",
+    "img/Pasted image 20230629141833.png",
+    "img/Pasted image 20230629141736.png",
+    "Untitled.md",
+    "img/Pasted image 20230628212021.png",
+    "img/Pasted image 20230628212015.png",
+    "img/Pasted image 20230628211954.png",
+    "img/Pasted image 20230628200235.png",
+    "Teoria/Ppt parcial 1/presentacion_STP_.pdf",
+    "Teoria/Ppt parcial 1/LAN_Ethernet_LAN_Switching.pdf",
+    "Teoria/Ppt parcial 1/FIUBA-RedesDeComputadortas-InternetworkingDevices.pdf",
+    "Teoria/Ppt parcial 1/ARP-ICMP.pdf",
+    "Teoria/Ppt parcial 1/ControlCongestionTCP.pdf",
+    "_ Preguntas/Preguntas de Mail, SMTP, POP, IMAP.md",
+    "_ Preguntas/7 - IPv6.md",
+    "_ Preguntas/6- Seguridad.md",
+    "_ Preguntas/3- UDP, TCP.md",
+    "_ Preguntas/2- IP, ARP, ICMP.md",
+    "_ Preguntas/5- DHCP.md",
+    "_ Preguntas/1- LAN, LAN Switching, STP, VLANs.md",
+    "Teoria/DNS DHCP.md",
+    "Teoria/Unidad I - Repaso COM.md",
+    "Teoria/Unidad II - LAN.md",
+    "_ Preguntas/SNMP.md"
   ]
 }

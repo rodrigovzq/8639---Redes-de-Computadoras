@@ -1,1 +1,6 @@
-{}
+{
+  "attachmentFolderPath": "img",
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "spellcheck": false
+}
